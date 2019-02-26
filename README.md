@@ -1,4 +1,7 @@
-# CBBC-Outstanding-Distribution
+# CBBC-Outstanding-Distribution(depreciated as tencent API updated, the data are not real-time)
+
+27-2-2019 update web scrapping HSI option data from HKEX to generate maximum option pain.
+
 Using Python and Tencent API.
 
 CBBC Outstanding Distribution is an important reference of the rise and fall of Hang Seng Index.
