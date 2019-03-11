@@ -1,4 +1,4 @@
-# CBBC-Outstanding-Distribution(depreciated as tencent API updated, the data are not real-time)
+# CBBC-Outstanding-Distribution(depreciated as the data are not real-time)
 
 27-2-2019 update web scrapping HSI option data from HKEX to generate maximum option pain.
 
