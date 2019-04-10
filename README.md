@@ -1,4 +1,4 @@
-# CBBC-Outstanding-Distribution(depreciated as the data are not real-time)
+# CBBC-Outstanding-Distribution(Deprecated)
 
 27-2-2019 update web scrapping HSI option data from HKEX to generate maximum option pain.
 
@@ -20,4 +20,4 @@ http://web.ifzq.gtimg.cn/appstock/app/HkWarrant/hkw?code=65093
 
 4. Generate the distribution
 
-Limitation: The warrant data from Tencent API may not be exactly real-time.
+Limitation: The warrant data from Tencent API is not real-time.
